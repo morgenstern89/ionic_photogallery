@@ -19,6 +19,7 @@ import {
 import { usePhotoGallery, UserPhoto } from "../hooks/usePhotoGallery";
 import { useState } from "react";
 import "./Tab2.css";
+import React from "react";
 // import { Key } from "react";
 
 const Tab2: React.FC = () => {
